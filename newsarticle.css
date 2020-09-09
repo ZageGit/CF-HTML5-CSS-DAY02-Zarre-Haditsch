@@ -2,6 +2,18 @@ article {
 	display:  block;
 	width: 600px;
 	height: 200px;
+	background-color: lightgoldenrodyellow;
+	margin-left: 10px;
+	margin-top: 25px;
+	padding: 10px;
+	float: left;
+}
+
+p span {
+	font-style: italic;
+	text-decoration: underline;
+	font-weight: bold;
+
 
 
 }
