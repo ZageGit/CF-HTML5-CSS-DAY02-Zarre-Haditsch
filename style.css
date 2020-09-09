@@ -6,3 +6,23 @@ div {
 div #third > p {
 	display: none;
 }
+
+h1 {
+
+	visibility: hidden;
+}
+
+ #second {
+
+	visibility: hidden;
+
+	}
+img {
+
+	visibility: visible;
+}
+
+div {
+
+	visibility: hidden;
+}
