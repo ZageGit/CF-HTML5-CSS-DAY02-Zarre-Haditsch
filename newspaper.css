@@ -1,3 +1,14 @@
 article {
 	font-family: Verdana;
 }
+p {
+	font-family: Verdana;
+	font-size: 1.5em;
+	font-style: italic;
+}
+
+ul {
+	font-family: Palatino;
+	color: red;
+
+}
