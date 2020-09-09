@@ -1,0 +1,8 @@
+div {
+	border: solid;
+	margin: 5px;
+}
+
+div #third > p {
+	display: none;
+}
